@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C193E807-FE91-45C0-8B74-451964461127}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>tinhdiemctxhhuit</RootNamespace>
+    <AssemblyName>tinhdiemctxhhuit</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ChamDiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChamDiem.Designer.cs">
+      <DependentUpon>ChamDiem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConnectCSDL.cs" />
+    <Compile Include="DangKiHoatDong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DangKiHoatDong.Designer.cs">
+      <DependentUpon>DangKiHoatDong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dangky.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dangky.Designer.cs">
+      <DependentUpon>Dangky.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DiemDanh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DiemDanh.Designer.cs">
+      <DependentUpon>DiemDanh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Diemtru.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Diemtru.Designer.cs">
+      <DependentUpon>Diemtru.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DSDK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DSDK.Designer.cs">
+      <DependentUpon>DSDK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GiaoDienChung.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GiaoDienChung.Designer.cs">
+      <DependentUpon>GiaoDienChung.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GiaoDienSV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GiaoDienSV.Designer.cs">
+      <DependentUpon>GiaoDienSV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HoatDongDaDK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HoatDongDaDK.Designer.cs">
+      <DependentUpon>HoatDongDaDK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HoatDongTrongNam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HoatDongTrongNam.Designer.cs">
+      <DependentUpon>HoatDongTrongNam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ql_diemCTXHHUIT_2023__2024DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ql_diemCTXHHUIT_2023__2024DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ql_diemCTXHHUIT_2023__2024DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ql_diemCTXHHUIT_2023__2024DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SinhVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SinhVien.Designer.cs">
+      <DependentUpon>SinhVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TinhDiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TinhDiem.Designer.cs">
+      <DependentUpon>TinhDiem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TinhDiemTheoNhom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TinhDiemTheoNhom.Designer.cs">
+      <DependentUpon>TinhDiemTheoNhom.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ChamDiem.resx">
+      <DependentUpon>ChamDiem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DangKiHoatDong.resx">
+      <DependentUpon>DangKiHoatDong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dangky.resx">
+      <DependentUpon>Dangky.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DiemDanh.resx">
+      <DependentUpon>DiemDanh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Diemtru.resx">
+      <DependentUpon>Diemtru.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DSDK.resx">
+      <DependentUpon>DSDK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GiaoDienChung.resx">
+      <DependentUpon>GiaoDienChung.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GiaoDienSV.resx">
+      <DependentUpon>GiaoDienSV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HoatDongDaDK.resx">
+      <DependentUpon>HoatDongDaDK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HoatDongTrongNam.resx">
+      <DependentUpon>HoatDongTrongNam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SinhVien.resx">
+      <DependentUpon>SinhVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TinhDiem.resx">
+      <DependentUpon>TinhDiem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TinhDiemTheoNhom.resx">
+      <DependentUpon>TinhDiemTheoNhom.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ql_diemCTXHHUIT_2023__2024DataSet.xsc">
+      <DependentUpon>ql_diemCTXHHUIT_2023__2024DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ql_diemCTXHHUIT_2023__2024DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ql_diemCTXHHUIT_2023__2024DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ql_diemCTXHHUIT_2023__2024DataSet.xss">
+      <DependentUpon>ql_diemCTXHHUIT_2023__2024DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ql_diemCTXHHUIT_2023__2024DataSet1.xsc">
+      <DependentUpon>ql_diemCTXHHUIT_2023__2024DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="ql_diemCTXHHUIT_2023__2024DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ql_diemCTXHHUIT_2023__2024DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ql_diemCTXHHUIT_2023__2024DataSet1.xss">
+      <DependentUpon>ql_diemCTXHHUIT_2023__2024DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\357385127_656826753140363_1993966234291025450_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-vector-male-student-icon-png-image_862310.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

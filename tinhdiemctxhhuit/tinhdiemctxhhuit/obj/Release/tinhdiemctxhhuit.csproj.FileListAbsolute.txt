@@ -1,0 +1,219 @@
+C:\Users\Admin\Desktop\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\bin\Release\tinhdiemctxhhuit.exe.config
+C:\Users\Admin\Desktop\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\bin\Release\tinhdiemctxhhuit.exe
+C:\Users\Admin\Desktop\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\bin\Release\tinhdiemctxhhuit.pdb
+C:\Users\Admin\Desktop\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.Chung.resources
+C:\Users\Admin\Desktop\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.DangNhap.resources
+C:\Users\Admin\Desktop\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.DiemThamGia.resources
+C:\Users\Admin\Desktop\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.Diemtru.resources
+C:\Users\Admin\Desktop\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.HoatDongTrongNam.resources
+C:\Users\Admin\Desktop\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.Properties.Resources.resources
+C:\Users\Admin\Desktop\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.SinhVien.resources
+C:\Users\Admin\Desktop\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.TimKiemTheoLop.resources
+C:\Users\Admin\Desktop\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.exe
+C:\Users\Admin\Desktop\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.pdb
+C:\Users\Admin\Desktop\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.TimKiemTheoHanMuc.resources
+C:\Users\Admin\Desktop\Đồ án (1)\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\bin\Release\tinhdiemctxhhuit.exe.config
+C:\Users\Admin\Desktop\Đồ án (1)\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.exe
+C:\Users\Admin\Desktop\Đồ án (1)\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.pdb
+C:\Users\Admin\Desktop\Đồ án (1)\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\bin\Release\tinhdiemctxhhuit.exe
+C:\Users\Admin\Desktop\Đồ án (1)\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\bin\Release\tinhdiemctxhhuit.pdb
+C:\Users\Admin\Desktop\Đồ án (1)\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Đồ án (1)\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.Chung.resources
+C:\Users\Admin\Desktop\Đồ án (1)\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.DangNhap.resources
+C:\Users\Admin\Desktop\Đồ án (1)\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.DiemThamGia.resources
+C:\Users\Admin\Desktop\Đồ án (1)\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.Diemtru.resources
+C:\Users\Admin\Desktop\Đồ án (1)\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.HoatDongTrongNam.resources
+C:\Users\Admin\Desktop\Đồ án (1)\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.Properties.Resources.resources
+C:\Users\Admin\Desktop\Đồ án (1)\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.SinhVien.resources
+C:\Users\Admin\Desktop\Đồ án (1)\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.TimKiemTheoHanMuc.resources
+C:\Users\Admin\Desktop\Đồ án (1)\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.TimKiemTheoLop.resources
+C:\Users\Admin\Desktop\Đồ án (1)\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Đồ án (1)\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.ChamDiem.resources
+C:\Users\Admin\Desktop\huit\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\bin\Release\tinhdiemctxhhuit.exe.config
+C:\Users\Admin\Desktop\huit\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.exe
+C:\Users\Admin\Desktop\huit\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.pdb
+C:\Users\Admin\Desktop\huit\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\bin\Release\tinhdiemctxhhuit.exe
+C:\Users\Admin\Desktop\huit\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\bin\Release\tinhdiemctxhhuit.pdb
+C:\Users\Admin\Desktop\huit\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\huit\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.ChamDiem.resources
+C:\Users\Admin\Desktop\huit\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.Chung.resources
+C:\Users\Admin\Desktop\huit\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.DangNhap.resources
+C:\Users\Admin\Desktop\huit\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.DiemThamGia.resources
+C:\Users\Admin\Desktop\huit\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.Diemtru.resources
+C:\Users\Admin\Desktop\huit\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.HoatDongTrongNam.resources
+C:\Users\Admin\Desktop\huit\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.Properties.Resources.resources
+C:\Users\Admin\Desktop\huit\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.SinhVien.resources
+C:\Users\Admin\Desktop\huit\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.TimKiemTheoHanMuc.resources
+C:\Users\Admin\Desktop\huit\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.TimKiemTheoLop.resources
+C:\Users\Admin\Desktop\huit\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\huit\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.Dangky.resources
+C:\Users\Admin\Desktop\huit1111\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\bin\Release\tinhdiemctxhhuit.exe.config
+C:\Users\Admin\Desktop\huit1111\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.exe
+C:\Users\Admin\Desktop\huit1111\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.pdb
+C:\Users\Admin\Desktop\huit1111\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\bin\Release\tinhdiemctxhhuit.exe
+C:\Users\Admin\Desktop\huit1111\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\bin\Release\tinhdiemctxhhuit.pdb
+C:\Users\Admin\Desktop\huit1111\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\huit1111\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.ChamDiem.resources
+C:\Users\Admin\Desktop\huit1111\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.Chung.resources
+C:\Users\Admin\Desktop\huit1111\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.Dangky.resources
+C:\Users\Admin\Desktop\huit1111\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.DangNhap.resources
+C:\Users\Admin\Desktop\huit1111\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.DiemThamGia.resources
+C:\Users\Admin\Desktop\huit1111\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.Diemtru.resources
+C:\Users\Admin\Desktop\huit1111\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.HoatDongTrongNam.resources
+C:\Users\Admin\Desktop\huit1111\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.MinhChung.resources
+C:\Users\Admin\Desktop\huit1111\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.Properties.Resources.resources
+C:\Users\Admin\Desktop\huit1111\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.SinhVien.resources
+C:\Users\Admin\Desktop\huit1111\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.TimKiemTheoHanMuc.resources
+C:\Users\Admin\Desktop\huit1111\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.TimKiemTheoLop.resources
+C:\Users\Admin\Desktop\huit1111\Đồ án (1)\Đồ án (1)\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\tinhdiemctxh\tinhdiemctxh\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\bin\Release\tinhdiemctxhhuit.exe.config
+C:\Users\Admin\Desktop\tinhdiemctxh\tinhdiemctxh\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.exe
+C:\Users\Admin\Desktop\tinhdiemctxh\tinhdiemctxh\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.pdb
+C:\Users\Admin\Desktop\tinhdiemctxh\tinhdiemctxh\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\bin\Release\tinhdiemctxhhuit.exe
+C:\Users\Admin\Desktop\tinhdiemctxh\tinhdiemctxh\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\bin\Release\tinhdiemctxhhuit.pdb
+C:\Users\Admin\Desktop\tinhdiemctxh\tinhdiemctxh\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\tinhdiemctxh\tinhdiemctxh\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.ChamDiem.resources
+C:\Users\Admin\Desktop\tinhdiemctxh\tinhdiemctxh\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.Chung.resources
+C:\Users\Admin\Desktop\tinhdiemctxh\tinhdiemctxh\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.Dangky.resources
+C:\Users\Admin\Desktop\tinhdiemctxh\tinhdiemctxh\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.DangNhap.resources
+C:\Users\Admin\Desktop\tinhdiemctxh\tinhdiemctxh\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.DiemThamGia.resources
+C:\Users\Admin\Desktop\tinhdiemctxh\tinhdiemctxh\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.Diemtru.resources
+C:\Users\Admin\Desktop\tinhdiemctxh\tinhdiemctxh\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.HoatDongTrongNam.resources
+C:\Users\Admin\Desktop\tinhdiemctxh\tinhdiemctxh\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.MinhChung.resources
+C:\Users\Admin\Desktop\tinhdiemctxh\tinhdiemctxh\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.Properties.Resources.resources
+C:\Users\Admin\Desktop\tinhdiemctxh\tinhdiemctxh\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.SinhVien.resources
+C:\Users\Admin\Desktop\tinhdiemctxh\tinhdiemctxh\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.TimKiemTheoHanMuc.resources
+C:\Users\Admin\Desktop\tinhdiemctxh\tinhdiemctxh\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.TimKiemTheoLop.resources
+C:\Users\Admin\Desktop\tinhdiemctxh\tinhdiemctxh\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\tinhdiemctxh\tinhdiemctxh\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.HoiDong.resources
+C:\Users\ADMIN\Downloads\tinhdiemctxh11111\tinhdiemctxh\tinhdiemctxh\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\bin\Release\tinhdiemctxhhuit.exe.config
+C:\Users\ADMIN\Downloads\tinhdiemctxh11111\tinhdiemctxh\tinhdiemctxh\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.exe
+C:\Users\ADMIN\Downloads\tinhdiemctxh11111\tinhdiemctxh\tinhdiemctxh\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.pdb
+C:\Users\ADMIN\Downloads\tinhdiemctxh11111\tinhdiemctxh\tinhdiemctxh\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\bin\Release\tinhdiemctxhhuit.exe
+C:\Users\ADMIN\Downloads\tinhdiemctxh11111\tinhdiemctxh\tinhdiemctxh\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\bin\Release\tinhdiemctxhhuit.pdb
+C:\Users\ADMIN\Downloads\tinhdiemctxh11111\tinhdiemctxh\tinhdiemctxh\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Downloads\tinhdiemctxh11111\tinhdiemctxh\tinhdiemctxh\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.ChamDiem.resources
+C:\Users\ADMIN\Downloads\tinhdiemctxh11111\tinhdiemctxh\tinhdiemctxh\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.Chung.resources
+C:\Users\ADMIN\Downloads\tinhdiemctxh11111\tinhdiemctxh\tinhdiemctxh\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.Dangky.resources
+C:\Users\ADMIN\Downloads\tinhdiemctxh11111\tinhdiemctxh\tinhdiemctxh\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.DangNhap.resources
+C:\Users\ADMIN\Downloads\tinhdiemctxh11111\tinhdiemctxh\tinhdiemctxh\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.Diemtru.resources
+C:\Users\ADMIN\Downloads\tinhdiemctxh11111\tinhdiemctxh\tinhdiemctxh\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.HoatDongTrongNam.resources
+C:\Users\ADMIN\Downloads\tinhdiemctxh11111\tinhdiemctxh\tinhdiemctxh\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.HoiDong.resources
+C:\Users\ADMIN\Downloads\tinhdiemctxh11111\tinhdiemctxh\tinhdiemctxh\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.MinhChung.resources
+C:\Users\ADMIN\Downloads\tinhdiemctxh11111\tinhdiemctxh\tinhdiemctxh\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\tinhdiemctxh11111\tinhdiemctxh\tinhdiemctxh\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.SinhVien.resources
+C:\Users\ADMIN\Downloads\tinhdiemctxh11111\tinhdiemctxh\tinhdiemctxh\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.TimKiemTheoHanMuc.resources
+C:\Users\ADMIN\Downloads\tinhdiemctxh11111\tinhdiemctxh\tinhdiemctxh\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.TimKiemTheoLop.resources
+C:\Users\ADMIN\Downloads\tinhdiemctxh11111\tinhdiemctxh\tinhdiemctxh\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.TuDanhGia.resources
+C:\Users\ADMIN\Downloads\tinhdiemctxh11111\tinhdiemctxh\tinhdiemctxh\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Downloads\tinhdiemctxh11111\tinhdiemctxh\tinhdiemctxh_duy\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\bin\Release\tinhdiemctxhhuit.exe.config
+C:\Users\ADMIN\Downloads\tinhdiemctxh11111\tinhdiemctxh\tinhdiemctxh_duy\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.exe
+C:\Users\ADMIN\Downloads\tinhdiemctxh11111\tinhdiemctxh\tinhdiemctxh_duy\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.pdb
+C:\Users\ADMIN\Downloads\tinhdiemctxh11111\tinhdiemctxh\tinhdiemctxh_duy\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\bin\Release\tinhdiemctxhhuit.exe
+C:\Users\ADMIN\Downloads\tinhdiemctxh11111\tinhdiemctxh\tinhdiemctxh_duy\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\bin\Release\tinhdiemctxhhuit.pdb
+C:\Users\ADMIN\Downloads\tinhdiemctxh11111\tinhdiemctxh\tinhdiemctxh_duy\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Downloads\tinhdiemctxh11111\tinhdiemctxh\tinhdiemctxh_duy\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.ChamDiem.resources
+C:\Users\ADMIN\Downloads\tinhdiemctxh11111\tinhdiemctxh\tinhdiemctxh_duy\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.Dangky.resources
+C:\Users\ADMIN\Downloads\tinhdiemctxh11111\tinhdiemctxh\tinhdiemctxh_duy\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.DangNhap.resources
+C:\Users\ADMIN\Downloads\tinhdiemctxh11111\tinhdiemctxh\tinhdiemctxh_duy\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.Diemtru.resources
+C:\Users\ADMIN\Downloads\tinhdiemctxh11111\tinhdiemctxh\tinhdiemctxh_duy\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.HoatDongTrongNam.resources
+C:\Users\ADMIN\Downloads\tinhdiemctxh11111\tinhdiemctxh\tinhdiemctxh_duy\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.HoiDong.resources
+C:\Users\ADMIN\Downloads\tinhdiemctxh11111\tinhdiemctxh\tinhdiemctxh_duy\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.MinhChung.resources
+C:\Users\ADMIN\Downloads\tinhdiemctxh11111\tinhdiemctxh\tinhdiemctxh_duy\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\tinhdiemctxh11111\tinhdiemctxh\tinhdiemctxh_duy\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.SinhVien.resources
+C:\Users\ADMIN\Downloads\tinhdiemctxh11111\tinhdiemctxh\tinhdiemctxh_duy\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.TimKiemTheoHanMuc.resources
+C:\Users\ADMIN\Downloads\tinhdiemctxh11111\tinhdiemctxh\tinhdiemctxh_duy\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.TimKiemTheoLop.resources
+C:\Users\ADMIN\Downloads\tinhdiemctxh11111\tinhdiemctxh\tinhdiemctxh_duy\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.TuDanhGia.resources
+C:\Users\ADMIN\Downloads\tinhdiemctxh11111\tinhdiemctxh\tinhdiemctxh_duy\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Downloads\tinhdiemctxh11111\tinhdiemctxh\tinhdiemctxh_duy\Đồ án\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.GiaoDienChung.resources
+C:\Users\Admin\Desktop\LeHoangHuyDao\tinhdiemctxhhuit (1)\tinhdiemctxhhuit\tinhdiemctxhhuit\bin\Release\tinhdiemctxhhuit.exe.config
+C:\Users\Admin\Desktop\LeHoangHuyDao\tinhdiemctxhhuit (1)\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.exe
+C:\Users\Admin\Desktop\LeHoangHuyDao\tinhdiemctxhhuit (1)\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.pdb
+C:\Users\Admin\Desktop\LeHoangHuyDao\tinhdiemctxhhuit (1)\tinhdiemctxhhuit\tinhdiemctxhhuit\bin\Release\tinhdiemctxhhuit.exe
+C:\Users\Admin\Desktop\LeHoangHuyDao\tinhdiemctxhhuit (1)\tinhdiemctxhhuit\tinhdiemctxhhuit\bin\Release\tinhdiemctxhhuit.pdb
+C:\Users\Admin\Desktop\LeHoangHuyDao\tinhdiemctxhhuit (1)\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\LeHoangHuyDao\tinhdiemctxhhuit (1)\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.ChamDiem.resources
+C:\Users\Admin\Desktop\LeHoangHuyDao\tinhdiemctxhhuit (1)\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.Dangky.resources
+C:\Users\Admin\Desktop\LeHoangHuyDao\tinhdiemctxhhuit (1)\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.DangNhap.resources
+C:\Users\Admin\Desktop\LeHoangHuyDao\tinhdiemctxhhuit (1)\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.Diemtru.resources
+C:\Users\Admin\Desktop\LeHoangHuyDao\tinhdiemctxhhuit (1)\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.GiaoDienChung.resources
+C:\Users\Admin\Desktop\LeHoangHuyDao\tinhdiemctxhhuit (1)\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.HoatDongTrongNam.resources
+C:\Users\Admin\Desktop\LeHoangHuyDao\tinhdiemctxhhuit (1)\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.HoiDong.resources
+C:\Users\Admin\Desktop\LeHoangHuyDao\tinhdiemctxhhuit (1)\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.MinhChung.resources
+C:\Users\Admin\Desktop\LeHoangHuyDao\tinhdiemctxhhuit (1)\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.Properties.Resources.resources
+C:\Users\Admin\Desktop\LeHoangHuyDao\tinhdiemctxhhuit (1)\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.SinhVien.resources
+C:\Users\Admin\Desktop\LeHoangHuyDao\tinhdiemctxhhuit (1)\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.TimKiemTheoHanMuc.resources
+C:\Users\Admin\Desktop\LeHoangHuyDao\tinhdiemctxhhuit (1)\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.TimKiemTheoLop.resources
+C:\Users\Admin\Desktop\LeHoangHuyDao\tinhdiemctxhhuit (1)\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.TuDanhGia.resources
+C:\Users\Admin\Desktop\LeHoangHuyDao\tinhdiemctxhhuit (1)\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\LeHoangHuyDao\tinhdiemctxhhuit (1)\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.DangKiHoatDong.resources
+C:\Users\Admin\Desktop\LeHoangHuyDao\tinhdiemctxhhuit (1)\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.TinhDiemTong.resources
+C:\Users\Admin\Desktop\LeHoangHuyDao\tinhdiemctxhhuit (1)\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.DSDK.resources
+C:\Users\Admin\Desktop\LeHoangHuyDao\tinhdiemctxhhuit (1)\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.TinhDiem.resources
+C:\Users\Admin\Desktop\LeHoangHuyDao\tinhdiemctxhhuit (1)\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.DiemDanh.resources
+C:\Users\ADMIN\Downloads\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\bin\Release\tinhdiemctxhhuit.exe.config
+C:\Users\ADMIN\Downloads\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.exe
+C:\Users\ADMIN\Downloads\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.pdb
+C:\Users\ADMIN\Downloads\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\bin\Release\tinhdiemctxhhuit.exe
+C:\Users\ADMIN\Downloads\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\bin\Release\tinhdiemctxhhuit.pdb
+C:\Users\ADMIN\Downloads\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Downloads\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.ChamDiem.resources
+C:\Users\ADMIN\Downloads\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.DangKiHoatDong.resources
+C:\Users\ADMIN\Downloads\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.Dangky.resources
+C:\Users\ADMIN\Downloads\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.DiemDanh.resources
+C:\Users\ADMIN\Downloads\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.Diemtru.resources
+C:\Users\ADMIN\Downloads\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.DSDK.resources
+C:\Users\ADMIN\Downloads\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.GiaoDienChung.resources
+C:\Users\ADMIN\Downloads\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.HoatDongTrongNam.resources
+C:\Users\ADMIN\Downloads\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.SinhVien.resources
+C:\Users\ADMIN\Downloads\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.TinhDiem.resources
+C:\Users\ADMIN\Downloads\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Downloads\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.GiaoDienSV.resources
+C:\Users\ADMIN\Downloads\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.Login.resources
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\bin\Release\tinhdiemctxhhuit.exe.config
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.exe
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.pdb
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\bin\Release\tinhdiemctxhhuit.exe
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\bin\Release\tinhdiemctxhhuit.pdb
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.ChamDiem.resources
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.DangKiHoatDong.resources
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.Dangky.resources
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.DiemDanh.resources
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.Diemtru.resources
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.DSDK.resources
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.GiaoDienChung.resources
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.GiaoDienSV.resources
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.HoatDongTrongNam.resources
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.Login.resources
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.Properties.Resources.resources
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.SinhVien.resources
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.TinhDiem.resources
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.TinhDiemTheoNhom.resources
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.HoatDongDaDK.resources
+C:\Users\ADMIN\Downloads\ĐỒ ÁN CHUYÊN NGÀNH 10h01\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\bin\Release\tinhdiemctxhhuit.exe.config
+C:\Users\ADMIN\Downloads\ĐỒ ÁN CHUYÊN NGÀNH 10h01\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.exe
+C:\Users\ADMIN\Downloads\ĐỒ ÁN CHUYÊN NGÀNH 10h01\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.pdb
+C:\Users\ADMIN\Downloads\ĐỒ ÁN CHUYÊN NGÀNH 10h01\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\bin\Release\tinhdiemctxhhuit.exe
+C:\Users\ADMIN\Downloads\ĐỒ ÁN CHUYÊN NGÀNH 10h01\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\bin\Release\tinhdiemctxhhuit.pdb
+C:\Users\ADMIN\Downloads\ĐỒ ÁN CHUYÊN NGÀNH 10h01\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Downloads\ĐỒ ÁN CHUYÊN NGÀNH 10h01\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.ChamDiem.resources
+C:\Users\ADMIN\Downloads\ĐỒ ÁN CHUYÊN NGÀNH 10h01\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.DangKiHoatDong.resources
+C:\Users\ADMIN\Downloads\ĐỒ ÁN CHUYÊN NGÀNH 10h01\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.Dangky.resources
+C:\Users\ADMIN\Downloads\ĐỒ ÁN CHUYÊN NGÀNH 10h01\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.DiemDanh.resources
+C:\Users\ADMIN\Downloads\ĐỒ ÁN CHUYÊN NGÀNH 10h01\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.Diemtru.resources
+C:\Users\ADMIN\Downloads\ĐỒ ÁN CHUYÊN NGÀNH 10h01\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.DSDK.resources
+C:\Users\ADMIN\Downloads\ĐỒ ÁN CHUYÊN NGÀNH 10h01\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.GiaoDienChung.resources
+C:\Users\ADMIN\Downloads\ĐỒ ÁN CHUYÊN NGÀNH 10h01\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.GiaoDienSV.resources
+C:\Users\ADMIN\Downloads\ĐỒ ÁN CHUYÊN NGÀNH 10h01\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.HoatDongDaDK.resources
+C:\Users\ADMIN\Downloads\ĐỒ ÁN CHUYÊN NGÀNH 10h01\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.HoatDongTrongNam.resources
+C:\Users\ADMIN\Downloads\ĐỒ ÁN CHUYÊN NGÀNH 10h01\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.Login.resources
+C:\Users\ADMIN\Downloads\ĐỒ ÁN CHUYÊN NGÀNH 10h01\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\ĐỒ ÁN CHUYÊN NGÀNH 10h01\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.SinhVien.resources
+C:\Users\ADMIN\Downloads\ĐỒ ÁN CHUYÊN NGÀNH 10h01\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.TinhDiem.resources
+C:\Users\ADMIN\Downloads\ĐỒ ÁN CHUYÊN NGÀNH 10h01\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.TinhDiemTheoNhom.resources
+C:\Users\ADMIN\Downloads\ĐỒ ÁN CHUYÊN NGÀNH 10h01\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CHUYÊN NGÀNH\tinhdiemctxhhuit\tinhdiemctxhhuit\obj\Release\tinhdiemctxhhuit.csproj.GenerateResource.Cache
